@@ -1,0 +1,141 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.div-heading {
+    height: 300px;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1800px;
+    min-width: 800px;
+    background-image: url("../images/h2.jpg");
+    background-position: center;
+    text-align: center;
+}
+.div-end {
+    height: 70px;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1800px;
+    min-width: 800px;
+    background-image: url("../images/183.gif");
+    background-position: center;
+    text-align: center;
+}
+
+h1 {
+    color: #336E7B;
+    text-align: center;
+    font-weight: 700;
+
+}
+h2 {
+    padding: 20px;
+    margin: 0 auto;
+    color: red;
+    text-align: center;
+    font-weight: 400;
+}
+.mainmenu {
+    background:  #20b6b6;
+    height: 50px;
+    max-width: 1800px;
+    min-width: 800px;
+    margin: 0 auto;
+}
+.mainmenul-ul {
+    width: 800px;
+    margin: 0 auto;
+    display: table;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+}
+.mainmenu-li {
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+}
+
+.link-a {
+    display: block;
+    height: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 700 16px/50px 'Exo 2', sans-serif;
+    color: white;
+}
+.link-a-2 {
+    margin: 0;
+    display: block;
+    height: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 400 12px/54px 'Exo 2', sans-serif;
+    color: white;
+}
+a:hover {
+    background: #198a8a;
+}
+
+.div-general {
+    margin: 0 auto;
+    max-width: 1800px;
+    min-width: 800px;
+    background-image: url("../images/f1.jpg");
+    background-position: center;
+    min-height: 600px;
+}
+.table-cl {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+.td-cl {
+    border: 1px solid black;
+    padding: 5px;
+    min-width: 150px;
+    vertical-align: middle;
+    text-align: center;
+}
+.td-cl-checkbox {
+    border: 1px solid black;
+    padding: 5px;
+    min-width: 50px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.input-line {
+    float:left;
+    margin:10px 10px;
+}
+
+p {
+    margin: 20px;
+}
+
+div.field {
+    padding-bottom: 5px;
+}
+div.field label {
+    display: block;
+    float: left;
+    width: 180px;
+    height: 15px;
+}
+
+.div-res {
+    margin:10px 10px;
+    text-align: center;
+}
+
+.div-text {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+}
